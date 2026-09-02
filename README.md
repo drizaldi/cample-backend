@@ -96,7 +96,7 @@ Jika Anda ingin menguji pembayaran online Midtrans secara live:
 
 ---
 
-## 📌 Fitur Utama Backend
+## 📌 Fitur Utama Backend :
 - 🔐 **Autentikasi**: Login, Register, Logout, Reset Password via OTP Email.
 - 📦 **Inventaris**: Manajemen katalog barang, kategori, varian stok & harga sewa.
 - 🏷️ **Diskon Dinamis**: Manajemen diskon per-barang dan promo toko.
